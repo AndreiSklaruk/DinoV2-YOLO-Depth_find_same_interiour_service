@@ -20,7 +20,7 @@ from PIL import Image
 from app.config import DATABASE_DIR, STATIC_DIR, UPLOADS_DIR, TOP_K
 from app.extractor import load_model
 from app.indexer import build_index, is_index_built, load_index
-from app.retriever import search, search_hybrid, search_depth_only, apply_yolo_rerank
+from app.retriever import search, search_hybrid, search_depth_only, apply_yolo_rerank, apply_mirror_penalty
 import json
 
 # ─── Глобальное состояние ─────────────────────────────────────────────────────
@@ -130,6 +130,7 @@ async def search_similar(
     use_dinov2: bool = Form(True),
     use_depth: bool = Form(False),
     use_yolo: bool = Form(False),
+    use_mirror: bool = Form(False),
 ):
     """
     Поиск похожих комнат.
@@ -208,6 +209,19 @@ async def search_similar(
                     results = apply_yolo_rerank(results, query_yolo, yolo_meta)
                 except Exception as e:
                     print(f"[YOLO Error] {e}")
+
+        if use_mirror:
+            depth_idx = _load_depth_index()
+            if depth_idx is not None:
+                try:
+                    results = apply_mirror_penalty(
+                        results=results,
+                        query_image=query_image,
+                        depth_index=depth_idx,
+                        metadata=_metadata,
+                    )
+                except Exception as e:
+                    print(f"[Mirror Error] {e}")
 
         # Фильтрация только > 88%
         filtered_results = [r for r in results if r.get("score_pct", 0) >= 88.0]

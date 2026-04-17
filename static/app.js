@@ -33,6 +33,7 @@ const dinoToggle     = document.getElementById('dino-toggle');
 const yoloToggle     = document.getElementById('yolo-toggle');
 const yoloBadge      = document.getElementById('yolo-badge');
 const yoloWrap       = document.getElementById('yolo-wrap');
+const mirrorToggle   = document.getElementById('mirror-toggle');
 
 /* Viz refs */
 const vizSpinner = document.getElementById('viz-spinner');
@@ -230,6 +231,7 @@ async function runSearch() {
   else formData.append('use_dinov2', 'true');
   if (depthToggle && depthToggle.checked) formData.append('use_depth', 'true');
   if (yoloToggle && yoloToggle.checked) formData.append('use_yolo', 'true');
+  if (mirrorToggle && mirrorToggle.checked) formData.append('use_mirror', 'true');
 
   try {
     const t0      = performance.now();

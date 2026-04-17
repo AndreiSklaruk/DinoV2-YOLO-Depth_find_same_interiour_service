@@ -228,3 +228,73 @@ def apply_yolo_rerank(
         r["rank"] = i
 
     return results
+
+
+# ── Зеркальная детекция ────────────────────────────────────────────────────────
+
+def apply_mirror_penalty(
+    results: list[dict],
+    query_image: Image.Image,
+    depth_index,
+    metadata: dict[int, str],
+    mirror_threshold: float = 0.04,
+    mirror_penalty: float = 0.88,
+) -> list[dict]:
+    """
+    Штрафует кандидатов с зеркальной планировкой.
+
+    Алгоритм:
+      1. Извлечь depth-эмбеддинг оригинального запроса (emb_orig).
+      2. Извлечь depth-эмбеддинг горизонтально зеркального запроса (emb_flip).
+      3. Для каждого кандидата вычислить score_orig и score_flip.
+      4. Если score_flip > score_orig + mirror_threshold → комната зеркальна → штраф.
+
+    Args:
+        results:          Список кандидатов из search/search_hybrid/search_depth_only.
+        query_image:      Оригинальное PIL изображение запроса.
+        depth_index:      FAISS depth индекс (для reconstruct векторов кандидатов).
+        metadata:         Маппинг int_id → filename.
+        mirror_threshold: Минимальная разница score_flip - score_orig для штрафа (default 0.04).
+        mirror_penalty:   Множитель штрафа (default 0.88 = -12%).
+
+    Returns:
+        Модифицированный и пересортированный список результатов.
+    """
+    from PIL import ImageOps
+    from app.depth_extractor import extract_depth_embedding
+
+    if not results or depth_index is None:
+        return results
+
+    # Эмбеддинги запроса: оригинал и зеркало
+    emb_orig = extract_depth_embedding(query_image)                        # [D]
+    emb_flip = extract_depth_embedding(ImageOps.mirror(query_image))       # [D]
+
+    # Обратный маппинг filename → int_id (нужен для reconstruct из FAISS)
+    fname_to_idx = {v: k for k, v in metadata.items()}
+
+    for r in results:
+        fname = r["filename"]
+        idx   = fname_to_idx.get(fname)
+        if idx is None or idx >= depth_index.ntotal:
+            continue
+
+        cand_vec = depth_index.reconstruct(int(idx))                       # [D]
+
+        score_orig = float(np.dot(emb_orig, cand_vec))
+        score_flip = float(np.dot(emb_flip, cand_vec))
+
+        if score_flip > score_orig + mirror_threshold:
+            old_score = r.get("score", 0.0)
+            new_score = float(np.clip(old_score * mirror_penalty, 0.0, 1.0))
+            r["score"]       = round(new_score, 4)
+            r["score_pct"]   = round(new_score * 100, 1)
+            r["is_mirrored"] = True
+            r["mirror_delta"] = round(score_flip - score_orig, 3)
+
+    # Пересортировка после штрафа
+    results.sort(key=lambda x: x["score"], reverse=True)
+    for i, r in enumerate(results, start=1):
+        r["rank"] = i
+
+    return results

@@ -120,6 +120,28 @@
 
       <div class="sidebar-divider"></div>
 
+      <!-- Mirror Detection toggle -->
+      <div class="depth-toggle-wrap" id="mirror-wrap" title="Штрафует комнаты с зеркальной планировкой (медленнее — требует Depth)">
+        <label class="depth-toggle" id="mirror-toggle-label">
+          <input type="checkbox" id="mirror-toggle" aria-label="Mirror Detection" />
+          <span class="depth-toggle-track"><span class="depth-toggle-thumb"></span></span>
+          <div class="depth-toggle-info">
+            <span class="depth-toggle-title">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:-1px;margin-right:4px">
+                <line x1="12" y1="2" x2="12" y2="22"></line>
+                <path d="M2 12l10-8M2 12l10 8"></path>
+                <path d="M22 12l-10-8M22 12l-10 8"></path>
+              </svg>
+              Mirror Detection
+            </span>
+            <span class="depth-toggle-desc">Зеркальные планировки ↕</span>
+          </div>
+        </label>
+        <span class="depth-badge depth-badge-loading" id="mirror-badge">Beta</span>
+      </div>
+
+      <div class="sidebar-divider"></div>
+
       <button id="search-btn" class="search-btn" disabled aria-label="Найти похожие комнаты">
         <span id="btn-label">Выберите фото</span>
         <span id="btn-spinner" class="btn-spinner hidden"></span>
