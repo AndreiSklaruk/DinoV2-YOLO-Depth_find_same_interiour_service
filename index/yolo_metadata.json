@@ -1,0 +1,3819 @@
+{
+  "bc_001_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_002_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_003_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_004_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-right",
+      "top-right"
+    ]
+  },
+  "bc_005_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_006_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_007_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_008_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_009_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_010_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_011_before.jpg": {
+    "windows": [
+      "mid-center",
+      "top-right"
+    ],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_012_before.jpg": {
+    "windows": [
+      "top-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_013_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_014_before.jpg": {
+    "windows": [
+      "mid-center",
+      "top-right"
+    ],
+    "doors": []
+  },
+  "bc_015_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_016_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_017_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_018_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_019_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_020_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_021_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_022_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_023_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_024_before.jpg": {
+    "windows": [
+      "mid-left",
+      "top-right",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_025_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_026_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_027_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_028_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_029_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_030_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_031_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_032_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_033_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_034_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_035_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_036_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_037_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_038_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_039_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_040_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_041_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_042_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_043_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_044_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_045_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_046_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-center"
+    ],
+    "doors": [
+      "mid-center"
+    ]
+  },
+  "bc_047_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left"
+    ],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_048_before.jpg": {
+    "windows": [
+      "top-left",
+      "top-center",
+      "top-right"
+    ],
+    "doors": []
+  },
+  "bc_049_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_050_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_051_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_052_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_053_before.jpg": {
+    "windows": [
+      "top-left",
+      "mid-right",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_054_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_055_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_056_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_057_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_058_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_059_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_060_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_061_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_062_before.jpg": {
+    "windows": [
+      "top-left",
+      "mid-right",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_063_before.jpg": {
+    "windows": [
+      "top-center",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_064_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_065_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_066_before.jpg": {
+    "windows": [
+      "top-center"
+    ],
+    "doors": []
+  },
+  "bc_067_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-right",
+      "mid-center"
+    ]
+  },
+  "bc_068_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_069_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": [
+      "mid-center"
+    ]
+  },
+  "bc_070_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_071_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_072_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_073_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_074_before.jpg": {
+    "windows": [
+      "mid-right",
+      "top-right"
+    ],
+    "doors": []
+  },
+  "bc_075_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_076_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_077_before.jpg": {
+    "windows": [
+      "top-left",
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_078_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_079_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_080_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_081_before.jpg": {
+    "windows": [
+      "top-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_082_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_083_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_084_before.jpg": {
+    "windows": [
+      "top-left",
+      "mid-right",
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_085_before.jpg": {
+    "windows": [
+      "top-left",
+      "mid-left",
+      "top-right",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_086_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_087_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_088_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_089_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_090_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_091_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_092_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_093_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_094_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_095_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": [
+      "mid-center"
+    ]
+  },
+  "bc_096_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_097_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_098_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_099_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_100_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_101_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_102_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_103_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_104_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_105_before.jpg": {
+    "windows": [
+      "top-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_106_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_107_before.jpg": {
+    "windows": [
+      "top-right",
+      "top-center",
+      "mid-left",
+      "mid-center",
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_108_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_109_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": [
+      "mid-right",
+      "mid-left"
+    ]
+  },
+  "bc_110_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_111_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_112_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_113_before.jpg": {
+    "windows": [
+      "top-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_114_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center",
+      "top-right"
+    ],
+    "doors": []
+  },
+  "bc_115_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_116_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_117_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_118_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_119_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_120_before.jpg": {
+    "windows": [
+      "top-left",
+      "top-center"
+    ],
+    "doors": [
+      "mid-center"
+    ]
+  },
+  "bc_121_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_122_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_123_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_124_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_125_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_126_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_127_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_128_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_129_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-center"
+    ],
+    "doors": [
+      "mid-center"
+    ]
+  },
+  "bc_130_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_131_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_132_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_133_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_134_before.jpg": {
+    "windows": [
+      "top-left",
+      "mid-right",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_135_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_136_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_137_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_138_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_139_before.jpg": {
+    "windows": [
+      "mid-right",
+      "top-center"
+    ],
+    "doors": []
+  },
+  "bc_140_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_141_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_142_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_143_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_144_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-left",
+      "mid-center"
+    ]
+  },
+  "bc_145_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_146_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_147_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_148_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_149_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_150_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_151_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": [
+      "mid-center"
+    ]
+  },
+  "bc_152_before.jpg": {
+    "windows": [
+      "mid-right",
+      "top-center"
+    ],
+    "doors": []
+  },
+  "bc_153_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_154_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_155_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": [
+      "mid-center"
+    ]
+  },
+  "bc_156_before.jpg": {
+    "windows": [
+      "top-center"
+    ],
+    "doors": []
+  },
+  "bc_157_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_158_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_159_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_160_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_161_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_162_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_163_before.jpg": {
+    "windows": [
+      "mid-right",
+      "top-right"
+    ],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_164_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_165_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_166_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_168_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_169_before.jpg": {
+    "windows": [
+      "top-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_170_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_171_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_172_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_173_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_174_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-center"
+    ]
+  },
+  "bc_175_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_176_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": [
+      "mid-center"
+    ]
+  },
+  "bc_177_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_178_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_179_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_180_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_181_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_182_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_183_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_184_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_185_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_186_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-center"
+    ],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_187_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_188_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_189_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_190_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_191_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_192_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_193_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_194_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_195_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_196_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_197_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_198_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_199_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_200_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_201_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_202_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_203_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_204_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-right",
+      "mid-left"
+    ]
+  },
+  "bc_205_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_206_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_207_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_208_before.jpg": {
+    "windows": [
+      "top-right"
+    ],
+    "doors": []
+  },
+  "bc_209_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left"
+    ],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_210_before.jpg": {
+    "windows": [
+      "top-left"
+    ],
+    "doors": []
+  },
+  "bc_211_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": [
+      "mid-left",
+      "mid-center"
+    ]
+  },
+  "bc_212_before.jpg": {
+    "windows": [
+      "mid-right",
+      "top-center",
+      "top-right",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_213_before.jpg": {
+    "windows": [
+      "top-left"
+    ],
+    "doors": []
+  },
+  "bc_214_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_215_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": [
+      "mid-center"
+    ]
+  },
+  "bc_216_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_217_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_218_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_219_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_220_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_221_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_222_before.jpg": {
+    "windows": [
+      "top-right"
+    ],
+    "doors": []
+  },
+  "bc_223_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_224_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_225_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_226_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_227_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": [
+      "mid-center"
+    ]
+  },
+  "bc_228_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_229_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_230_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_231_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_232_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_233_before.jpg": {
+    "windows": [
+      "top-center",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_234_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_235_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_236_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_237_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_238_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_239_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_240_before.jpg": {
+    "windows": [
+      "mid-left",
+      "top-right"
+    ],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_241_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_242_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_243_before.jpg": {
+    "windows": [
+      "top-left"
+    ],
+    "doors": []
+  },
+  "bc_244_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_245_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_246_before.jpg": {
+    "windows": [
+      "top-left",
+      "mid-left",
+      "bottom-left"
+    ],
+    "doors": []
+  },
+  "bc_247_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-center"
+    ]
+  },
+  "bc_248_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_249_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_250_before.jpg": {
+    "windows": [
+      "top-center",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_251_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_252_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-left",
+      "mid-center"
+    ]
+  },
+  "bc_253_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_254_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_255_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_256_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_257_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_258_before.jpg": {
+    "windows": [
+      "top-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_259_before.jpg": {
+    "windows": [
+      "top-left",
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_260_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_261_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-right",
+      "mid-center"
+    ]
+  },
+  "bc_262_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_263_before.jpg": {
+    "windows": [
+      "mid-left",
+      "top-center",
+      "top-right"
+    ],
+    "doors": []
+  },
+  "bc_264_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_265_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_266_before.jpg": {
+    "windows": [
+      "mid-right",
+      "top-right"
+    ],
+    "doors": []
+  },
+  "bc_267_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_268_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_269_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_270_before.jpg": {
+    "windows": [
+      "mid-right",
+      "top-center",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_271_before.jpg": {
+    "windows": [
+      "top-left",
+      "top-center",
+      "top-right"
+    ],
+    "doors": []
+  },
+  "bc_272_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_273_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_274_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_275_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_276_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_277_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_278_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_279_before.jpg": {
+    "windows": [
+      "top-center"
+    ],
+    "doors": []
+  },
+  "bc_280_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": [
+      "top-center"
+    ]
+  },
+  "bc_281_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_282_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_283_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_284_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_285_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_286_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_287_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_288_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_289_before.jpg": {
+    "windows": [
+      "top-left"
+    ],
+    "doors": []
+  },
+  "bc_290_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_291_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_292_before.jpg": {
+    "windows": [
+      "mid-right",
+      "top-center"
+    ],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_293_before.jpg": {
+    "windows": [
+      "top-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_294_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_295_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_296_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_297_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_298_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_299_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_300_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": [
+      "mid-center"
+    ]
+  },
+  "bc_301_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_302_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_303_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_304_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_305_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_306_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_307_before.jpg": {
+    "windows": [
+      "top-right",
+      "mid-center"
+    ],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_308_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_309_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_310_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_311_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_312_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_313_before.jpg": {
+    "windows": [
+      "top-center",
+      "top-right"
+    ],
+    "doors": []
+  },
+  "bc_314_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_315_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": [
+      "mid-center"
+    ]
+  },
+  "bc_316_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_317_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_318_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_319_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_320_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_321_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_322_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": [
+      "mid-center"
+    ]
+  },
+  "bc_323_before.jpg": {
+    "windows": [
+      "top-right"
+    ],
+    "doors": []
+  },
+  "bc_324_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_325_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_326_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_327_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_328_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_329_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_330_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_331_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_332_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_333_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_334_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_335_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_336_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_337_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_338_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_339_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_340_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_341_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-center"
+    ]
+  },
+  "bc_342_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_343_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_344_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_345_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_346_before.jpg": {
+    "windows": [
+      "top-left",
+      "mid-left"
+    ],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_347_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left"
+    ],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_348_before.jpg": {
+    "windows": [
+      "mid-left",
+      "top-right"
+    ],
+    "doors": []
+  },
+  "bc_349_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_350_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_351_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_352_before.jpg": {
+    "windows": [
+      "mid-right",
+      "bottom-right",
+      "top-right"
+    ],
+    "doors": []
+  },
+  "bc_353_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_354_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_355_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_356_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_357_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_358_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_359_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_360_before.jpg": {
+    "windows": [
+      "top-right"
+    ],
+    "doors": []
+  },
+  "bc_361_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_362_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_363_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": [
+      "mid-left",
+      "mid-center"
+    ]
+  },
+  "bc_364_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_365_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": [
+      "mid-center"
+    ]
+  },
+  "bc_366_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_367_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_368_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_369_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_370_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_371_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_372_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_373_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": [
+      "mid-center"
+    ]
+  },
+  "bc_374_before.jpg": {
+    "windows": [
+      "top-left"
+    ],
+    "doors": [
+      "mid-right",
+      "mid-center"
+    ]
+  },
+  "bc_375_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_376_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_377_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_378_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-center"
+    ]
+  },
+  "bc_379_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_380_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_381_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_382_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_383_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_384_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_385_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_386_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_387_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_388_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_389_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_390_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_391_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_392_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_393_before.jpg": {
+    "windows": [
+      "top-left",
+      "mid-right",
+      "top-right"
+    ],
+    "doors": []
+  },
+  "bc_394_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_395_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_396_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_397_before.jpg": {
+    "windows": [
+      "top-left",
+      "top-right"
+    ],
+    "doors": []
+  },
+  "bc_398_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_399_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_400_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_401_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_402_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_403_before.jpg": {
+    "windows": [
+      "mid-right",
+      "top-right"
+    ],
+    "doors": []
+  },
+  "bc_404_before.jpg": {
+    "windows": [
+      "top-right"
+    ],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_405_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_406_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_407_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_408_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_409_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_410_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_411_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_412_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_413_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_414_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_415_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_416_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_417_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_418_before.jpg": {
+    "windows": [
+      "mid-left",
+      "top-right"
+    ],
+    "doors": []
+  },
+  "bc_419_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_420_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_421_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-right",
+      "mid-left"
+    ]
+  },
+  "bc_422_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_423_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_424_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_425_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_426_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_427_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_428_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-center"
+    ]
+  },
+  "bc_429_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_430_before.jpg": {
+    "windows": [
+      "top-left",
+      "top-center",
+      "top-right"
+    ],
+    "doors": []
+  },
+  "bc_431_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_432_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_433_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_434_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_435_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_436_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_437_before.jpg": {
+    "windows": [
+      "top-left"
+    ],
+    "doors": []
+  },
+  "bc_438_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_439_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_440_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_441_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_442_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_443_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_444_before.jpg": {
+    "windows": [
+      "top-center"
+    ],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_445_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_446_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_447_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_448_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_449_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_450_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_451_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_452_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_453_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_454_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_455_before.jpg": {
+    "windows": [
+      "top-center"
+    ],
+    "doors": []
+  },
+  "bc_456_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_457_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_458_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-center"
+    ],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_459_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_460_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_461_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_462_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_463_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-center"
+    ],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_464_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_465_before.jpg": {
+    "windows": [
+      "top-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_466_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_467_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_468_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_469_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": [
+      "mid-center"
+    ]
+  },
+  "bc_470_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_471_before.jpg": {
+    "windows": [
+      "top-left"
+    ],
+    "doors": []
+  },
+  "bc_472_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_473_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_474_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_475_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_476_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_477_before.jpg": {
+    "windows": [
+      "top-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_478_before.jpg": {
+    "windows": [
+      "top-left",
+      "top-center",
+      "top-right"
+    ],
+    "doors": []
+  },
+  "bc_479_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_480_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_481_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_482_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_483_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": [
+      "mid-center"
+    ]
+  },
+  "bc_484_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_485_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_486_before.jpg": {
+    "windows": [
+      "top-center"
+    ],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_487_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_488_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_489_before.jpg": {
+    "windows": [
+      "top-center",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_490_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_491_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_492_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_493_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_494_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_495_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_496_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_497_before.jpg": {
+    "windows": [
+      "top-right"
+    ],
+    "doors": []
+  },
+  "bc_498_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-center"
+    ],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_499_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_500_before.jpg": {
+    "windows": [
+      "top-left",
+      "mid-left",
+      "top-right",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_501_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_502_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_503_before.jpg": {
+    "windows": [
+      "top-left"
+    ],
+    "doors": []
+  },
+  "bc_504_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_505_before.jpg": {
+    "windows": [
+      "top-left",
+      "mid-center"
+    ],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_506_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_507_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_508_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-right",
+      "mid-center"
+    ]
+  },
+  "bc_509_before.jpg": {
+    "windows": [
+      "top-right"
+    ],
+    "doors": []
+  },
+  "bc_510_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_511_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-center"
+    ],
+    "doors": [
+      "mid-center"
+    ]
+  },
+  "bc_512_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_513_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_514_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_515_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_516_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_517_before.jpg": {
+    "windows": [
+      "top-left"
+    ],
+    "doors": []
+  },
+  "bc_518_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_519_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_520_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_521_before.jpg": {
+    "windows": [
+      "top-left"
+    ],
+    "doors": []
+  },
+  "bc_522_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_523_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_524_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_525_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_526_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_527_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_528_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_529_before.jpg": {
+    "windows": [
+      "top-right"
+    ],
+    "doors": [
+      "mid-center"
+    ]
+  },
+  "bc_530_before.jpg": {
+    "windows": [
+      "top-left",
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_531_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-center"
+    ],
+    "doors": [
+      "mid-left",
+      "mid-center"
+    ]
+  },
+  "bc_532_before.jpg": {
+    "windows": [
+      "top-left"
+    ],
+    "doors": []
+  },
+  "bc_533_before.jpg": {
+    "windows": [
+      "top-left",
+      "mid-left",
+      "top-right"
+    ],
+    "doors": []
+  },
+  "bc_534_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_535_before.jpg": {
+    "windows": [
+      "top-center",
+      "mid-right",
+      "mid-left",
+      "top-right"
+    ],
+    "doors": []
+  },
+  "bc_536_before.jpg": {
+    "windows": [
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_537_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_538_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_539_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": [
+      "mid-center"
+    ]
+  },
+  "bc_540_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_541_before.jpg": {
+    "windows": [
+      "top-center"
+    ],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_542_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_543_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_544_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_545_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_546_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_547_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_548_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_549_before.jpg": {
+    "windows": [
+      "top-right"
+    ],
+    "doors": [
+      "mid-center"
+    ]
+  },
+  "bc_550_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_551_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_552_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_553_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_554_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_555_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-center"
+    ],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_556_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_557_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_558_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_559_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_560_before.jpg": {
+    "windows": [
+      "top-left",
+      "top-right"
+    ],
+    "doors": []
+  },
+  "bc_561_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_562_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_563_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_564_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_565_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_566_before.jpg": {
+    "windows": [
+      "top-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_567_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_568_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_569_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_570_before.jpg": {
+    "windows": [
+      "top-left",
+      "mid-left"
+    ],
+    "doors": [
+      "mid-center"
+    ]
+  },
+  "bc_571_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_572_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_573_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_574_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_575_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-right"
+    ]
+  },
+  "bc_576_before.jpg": {
+    "windows": [],
+    "doors": [
+      "mid-right",
+      "mid-center"
+    ]
+  },
+  "bc_577_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_578_before.jpg": {
+    "windows": [
+      "mid-right",
+      "top-right",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_579_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_580_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_581_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_582_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_583_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_584_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_585_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_586_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_587_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_588_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_589_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_590_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_591_before.jpg": {
+    "windows": [
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_592_before.jpg": {
+    "windows": [
+      "top-right"
+    ],
+    "doors": [
+      "mid-left"
+    ]
+  },
+  "bc_593_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": [
+      "mid-left",
+      "mid-center"
+    ]
+  },
+  "bc_594_before.jpg": {
+    "windows": [
+      "top-left",
+      "top-center",
+      "top-right"
+    ],
+    "doors": []
+  },
+  "bc_595_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": []
+  },
+  "bc_596_before.jpg": {
+    "windows": [],
+    "doors": []
+  },
+  "bc_597_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-center"
+    ],
+    "doors": []
+  },
+  "bc_598_before.jpg": {
+    "windows": [
+      "mid-right"
+    ],
+    "doors": []
+  },
+  "bc_599_before.jpg": {
+    "windows": [
+      "mid-left"
+    ],
+    "doors": [
+      "mid-right",
+      "mid-left",
+      "mid-center"
+    ]
+  },
+  "bc_600_before.jpg": {
+    "windows": [
+      "mid-right",
+      "mid-left",
+      "mid-center"
+    ],
+    "doors": []
+  }
+}

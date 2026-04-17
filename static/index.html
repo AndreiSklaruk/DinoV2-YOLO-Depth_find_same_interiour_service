@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DINOv2 Room Finder — Поиск похожих комнат</title>
+  <meta name="description" content="Загрузите фото пустой комнаты и найдите 5 самых похожих по геометрии и структуре." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+
+  <!-- ── Header ─────────────────────────────────── -->
+  <header class="header">
+    <div class="header-inner">
+      <div class="logo">
+        <div class="logo-icon">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/>
+            <polyline points="9 22 9 12 15 12 15 22"/>
+          </svg>
+        </div>
+        <span class="logo-text">RoomFinder<span class="logo-badge">DINOv2</span></span>
+      </div>
+      <div id="status-badge" class="status-badge status-loading">
+        <span class="status-dot"></span>
+        <span id="status-text">Загрузка...</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- ── App Layout ─────────────────────────────── -->
+  <div class="app-layout">
+
+    <!-- Sidebar -->
+    <aside class="sidebar">
+
+      <div id="drop-zone" class="drop-zone-compact" role="button" tabindex="0" aria-label="Загрузить изображение">
+        <input type="file" id="file-input" accept="image/jpeg,image/png,image/jpg" hidden aria-hidden="true" />
+        <div id="drop-idle" class="drop-idle-compact">
+          <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" opacity=".5">
+            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+            <polyline points="17 8 12 3 7 8"/>
+            <line x1="12" y1="3" x2="12" y2="15"/>
+          </svg>
+          <p class="drop-compact-title">Загрузить фото</p>
+          <p class="drop-compact-sub">JPEG или PNG</p>
+        </div>
+        <div id="drop-thumb" class="drop-thumb hidden">
+          <img id="thumb-img" src="" alt="Загруженная комната" class="thumb-image" />
+          <div class="thumb-overlay"><span>Изменить</span></div>
+        </div>
+      </div>
+
+      <div class="sidebar-divider"></div>
+
+      <!-- DINOv2 toggle -->
+      <div class="depth-toggle-wrap" id="dino-wrap">
+        <label class="depth-toggle" id="dino-toggle-label">
+          <input type="checkbox" id="dino-toggle" checked aria-label="DINOv2" />
+          <span class="depth-toggle-track"><span class="depth-toggle-thumb"></span></span>
+          <div class="depth-toggle-info">
+            <span class="depth-toggle-title">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:-1px;margin-right:4px">
+                <rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect>
+                <circle cx="8.5" cy="8.5" r="1.5"></circle>
+                <polyline points="21 15 16 10 5 21"></polyline>
+              </svg>
+              DINOv2
+            </span>
+            <span class="depth-toggle-desc">Текстура и ракурс</span>
+          </div>
+        </label>
+        <span class="depth-badge depth-badge-ready" id="dino-badge">Готов</span>
+      </div>
+
+      <div class="sidebar-divider"></div>
+
+      <!-- Depth toggle -->
+      <div class="depth-toggle-wrap" id="depth-wrap" title="Экспериментально — только геометрия, игнорирует текстуры и цвет">
+        <label class="depth-toggle" id="depth-toggle-label">
+          <input type="checkbox" id="depth-toggle" aria-label="Depth Anything V2" />
+          <span class="depth-toggle-track"><span class="depth-toggle-thumb"></span></span>
+          <div class="depth-toggle-info">
+            <span class="depth-toggle-title">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:-1px;margin-right:4px">
+                <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/>
+              </svg>
+              Depth Anything V2
+            </span>
+            <span class="depth-toggle-desc">3D геометрия</span>
+          </div>
+        </label>
+        <span class="depth-badge depth-badge-loading" id="depth-badge">...</span>
+      </div>
+
+      <div class="sidebar-divider"></div>
+
+      <!-- YOLO toggle -->
+      <div class="depth-toggle-wrap" id="yolo-wrap">
+        <label class="depth-toggle" id="yolo-toggle-label">
+          <input type="checkbox" id="yolo-toggle" aria-label="Пространственная логика (YOLO)" />
+          <span class="depth-toggle-track"><span class="depth-toggle-thumb"></span></span>
+          <div class="depth-toggle-info">
+            <span class="depth-toggle-title">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:-1px;margin-right:4px">
+                <rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect>
+                <line x1="3" y1="9" x2="21" y2="9"></line>
+                <line x1="9" y1="21" x2="9" y2="9"></line>
+              </svg>
+              YOLO Spatial
+            </span>
+            <span class="depth-toggle-desc">Позиции окон и дверей</span>
+          </div>
+        </label>
+        <span class="depth-badge depth-badge-loading" id="yolo-badge">...</span>
+      </div>
+
+      <div class="sidebar-divider"></div>
+
+      <button id="search-btn" class="search-btn" disabled aria-label="Найти похожие комнаты">
+        <span id="btn-label">Выберите фото</span>
+        <span id="btn-spinner" class="btn-spinner hidden"></span>
+      </button>
+
+      <div class="sidebar-spacer"></div>
+
+      <div class="sidebar-footer">
+        <span id="indexed-count" class="footer-stat">— комнат в базе</span>
+        <button id="rebuild-btn" class="footer-btn" title="Пересобрать индекс">Пересобрать индекс</button>
+      </div>
+
+    </aside>
+
+    <!-- Main content -->
+    <main class="main-content">
+
+      <!-- ─── Query panel (top): image + viz tabs внутри ─── -->
+      <div class="query-panel" id="query-panel">
+
+        <!-- Hero (before upload) -->
+        <div id="hero-state" class="hero-state">
+          <h1 class="hero-title">Найдите похожую комнату</h1>
+          <p class="hero-subtitle">Загрузите фото пустой комнаты — DINOv2 найдёт 5 наиболее похожих по геометрии и ракурсу</p>
+        </div>
+
+        <!-- Превью: flex: 1, занимает всё свободное пространство -->
+        <div id="query-preview" class="query-preview hidden">
+          <img id="preview-img" src="" alt="Загруженная комната" class="query-img" />
+          <!-- Спиннер анализа -->
+          <div id="viz-spinner" class="viz-spinner hidden">
+            <span class="viz-spinner-dot"></span>
+            <span>Анализ...</span>
+          </div>
+        </div>
+
+        <!-- Viz tabs bar — прибит к нижней части query-panel -->
+        <div id="viz-bar" class="viz-bar hidden">
+          <div class="viz-tabs">
+            <button class="viz-tab active" data-viz="original" id="vt-original">Оригинал</button>
+            <button class="viz-tab" data-viz="depth" id="vt-depth" disabled>Depth Map</button>
+            <button class="viz-tab" data-viz="yolo" id="vt-yolo" disabled>YOLO Objects</button>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- ─── Results panel (bottom) ─── -->
+      <div class="results-panel" id="results-panel">
+        <div class="results-bar hidden" id="results-bar">
+          <span class="results-bar-title">Топ-6 похожих комнат</span>
+          <div style="display:flex;align-items:center;gap:8px">
+            <span id="mode-badge" class="mode-badge hidden"></span>
+            <span id="results-meta" class="results-meta"></span>
+          </div>
+        </div>
+        <div id="results-grid" class="results-grid-inline hidden"></div>
+        <div id="empty-state" class="empty-state-inline">
+          <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" opacity=".3">
+            <rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/>
+            <rect x="14" y="14" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/>
+          </svg>
+          <p>Результаты появятся здесь</p>
+        </div>
+      </div>
+
+    </main>
+  </div>
+
+  <div id="notification" class="notification hidden" role="alert" aria-live="polite"></div>
+  <script src="/static/app.js"></script>
+</body>
+</html>
