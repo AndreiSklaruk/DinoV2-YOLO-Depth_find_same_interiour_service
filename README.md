@@ -225,14 +225,23 @@ final_score = clip(base_score × spatial_multiplier, 0.0, 1.0)
 - Python 3.11+
 - macOS (Apple Silicon MPS) или Linux (CPU)
 - ~4 GB RAM (все три модели в памяти одновременно)
+- [`uv`](https://docs.astral.sh/uv/) — менеджер пакетов
 
 ### Установка
+
 ```bash
-python -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-pip install ultralytics  # YOLOv8
+# 1. Установить uv (один раз глобально)
+curl -LsSf https://astral.sh/uv/install.sh | sh
+
+# 2. Клонировать репозиторий
+git clone git@github.com:AndreiSklaruk/DinoV2-YOLO-Depth_find_same_interiour_service.git
+cd DinoV2-YOLO-Depth_find_same_interiour_service
+
+# 3. Создать окружение и установить все зависимости (одна команда)
+uv sync
 ```
+
+> `uv sync` читает `pyproject.toml` и `uv.lock`, создаёт `.venv` и устанавливает точные версии пакетов. Работает за ~30 секунд даже на холодной машине.
 
 ### Индексация базы
 ```bash
@@ -246,7 +255,7 @@ python build_yolo_index.py   # ~2-5 мин, создаёт index/yolo_metadata.j
 
 ### Запуск сервера
 ```bash
-PYTORCH_ENABLE_MPS_FALLBACK=1 uvicorn main:app --host 0.0.0.0 --port 8000 --reload
+PYTORCH_ENABLE_MPS_FALLBACK=1 uv run uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 ```
 
 Открыть в браузере: **http://localhost:8000**

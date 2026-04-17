@@ -1,0 +1,48 @@
+[project]
+name = "roomfinder"
+version = "3.0.0"
+description = "Room similarity search via DINOv2, Depth Anything V2, and YOLOv8 spatial reranking"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "torch==2.2.2",
+    "torchvision==0.17.2",
+    "Pillow>=10.0.0",
+    "numpy==1.26.4",
+    "faiss-cpu>=1.7.4",
+    "fastapi>=0.110.0",
+    "uvicorn[standard]>=0.29.0",
+    "python-multipart>=0.0.9",
+    "tqdm>=4.66.0",
+    "transformers>=4.40.0,<5.0.0",
+    "huggingface-hub>=0.20.0",
+    "scipy>=1.11.0",
+    "opencv-python-headless>=4.8.0",
+    "ultralytics",
+]
+
+[project.optional-dependencies]
+dev = [
+    "ruff",
+    "pytest",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["app"]
+
+[tool.uv]
+# Используем CPU-версию torch (без CUDA) — работает на macOS MPS и Linux CPU
+index-strategy = "unsafe-best-match"
+
+[[tool.uv.index]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+explicit = true
+
+[tool.uv.sources]
+torch = [{ index = "pytorch-cpu" }]
+torchvision = [{ index = "pytorch-cpu" }]
